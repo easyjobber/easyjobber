@@ -1,4 +1,4 @@
-[Easyjobber.fr](https://easyjobber.fr/) vous met à disposition la liste des sites qui permettent à des jobbers de trouver un emplois ou un petit boulots. 
+[Easyjobber.fr](https://easyjobber.fr/) vous met à disposition la liste des sites qui permettent à des jobbers de trouver un emploi ou un petit boulots. 
 
 # My Job Boards 2022
 My awesome French job boards.
