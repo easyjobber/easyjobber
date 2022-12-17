@@ -1,0 +1,33 @@
+{
+  "basics": {
+    "name": "Easyjobber",
+    "label": "Web Engineer",
+    "image": "",
+    "email": "contact@easyjobber.fr",
+    "url": "https://easyjobber.fr",
+    "summary": "Founded in 2017, Easyjobber.fr is the jobbing and home services site that connects individuals for the realization of small jobs and jobs in France.",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Easyjobber",
+        "url": "https://github.com/easyjobber/"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Easyjobber",
+        "url": "https://fr.linkedin.com/company/easyjobber"
+      },
+      {
+        "network": "Twitter",
+        "username": "Easyjobber",
+        "url": "https://twitter.com/easyjobber/"
+      }
+    ]
+  },
+  "languages": [
+    {
+      "language": "French ",
+      "fluency": "Native speaker"
+    }
+  ]
+}
